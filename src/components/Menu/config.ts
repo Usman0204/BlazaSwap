@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://54.70.188.141:40339/',
+    href: 'https://blazeswap.finance/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'http://54.70.188.141:40339/farms',
+    href: 'https://staking.blazeswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'http://54.70.188.141:40339/pools',
+    href: 'https://staking.blazeswap.finance/pools',
   },
   // {
   //   label: 'Lottery',
