@@ -799,21 +799,6 @@
       "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
       "chainId": 56,
       "decimals": 18
-    },
-    {
-      "name": "KASHMIR",
-      "symbol": "AJK",
-      "address": "0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4",
-      "chainId": 97,
-      "decimals": 18
-    },
-    
-    {
-      "name": "AZAD",
-      "symbol": "KAS",
-      "address": "0x144c15676425a5192055a15471Da7FC413fa787D",
-      "chainId": 97,
-      "decimals": 18
     }
   ]
 }
