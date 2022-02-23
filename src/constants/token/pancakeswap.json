@@ -802,7 +802,8 @@
       "symbol": "TBT",
       "address": "0x71E8F5C81b8C0E1B4940a186D67b4A65eEBC3A65",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/tbt.png"
     },
     {
       "name": "AZAD",
